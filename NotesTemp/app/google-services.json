@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551907918787",
+    "project_id": "notemakingapp-49770",
+    "storage_bucket": "notemakingapp-49770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551907918787:android:ead5c8c8ea94dc7e1b7376",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551907918787-v0lo0kk31d4158md092h5ampgf9ofvp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsKzv0NOiiTnP_yrD46VVo_p4nMChRO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551907918787-v0lo0kk31d4158md092h5ampgf9ofvp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
